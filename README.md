@@ -23,7 +23,7 @@ Analytics: `Data Analysis and Visualization` `Google Analytics` `Voluum Tracker`
 Marketing management: `Google Ads` `Facebook Ads` `Content marketing` 
 
 ## About me
-Experienced digital marketer with a passion for learning and adapting to new technologies. Currently, expanding skills in DevOps methodology and Python programming through dedicated courses and self-study.
+Experienced digital marketer with a passion for learning and adapting to new technologies. Currently, expanding my skills in DevOps methodology and Python programming through dedicated courses and self-study.
 
 ---
 
