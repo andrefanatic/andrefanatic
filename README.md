@@ -1,16 +1,32 @@
-### Hi there 👋
+# **Andriy Kovalenko**
+Digital Marketer | DevOps Learner | Python Enthusiast
 
-<!--
-**andrefanatic/andrefanatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education & Courses 
 
-Here are some ideas to get you started:
+DevOps & Kubernetes by GlobalLogic Prometherus.org.ua
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python for Data Science, AI & Development by IBM
+Coursera.com
+
+CS50’s Web Programming with Python and JavaScript
+
+CS50’s Introduction to Databases with SQL
+
+## Skills
+
+DevOps: `Docker` `Kubernetes` `CI/CD`
+
+Programming: `Python` `Go` `Microservices Architecture` `Basic understanding of Bash scripting`
+
+Analytics: `Data Analysis and Visualization` `Google Analytics` `Voluum Tracker`
+
+Marketing management: `Google Ads` `Facebook Ads` `Content marketing` 
+
+## About me
+Experienced digital marketer with a passion for learning and adapting to new technologies. Currently, expanding skills in DevOps methodology and Python programming through dedicated courses and self-study.
+
+---
+
+Email: **<kovalenko1andrey@gmail.com>**
+LinkedIn: **[linkedin.com/in/andrey-kovalenko](https://www.linkedin.com/in/andrey-kovalenko-826b59168/)**
+GitHub: **[https://github.com/andrefanatic](https://github.com/andrefanatic)**
