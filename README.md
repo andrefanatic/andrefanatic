@@ -3,10 +3,9 @@ Digital Marketer | DevOps Learner | Python Enthusiast
 
 ## Education & Courses 
 
-DevOps & Kubernetes by GlobalLogic Prometherus.org.ua
+DevOps & Kubernetes by GlobalLogic at Prometherus.org.ua
 
-Python for Data Science, AI & Development by IBM
-Coursera.com
+Python for Data Science, AI & Development by IBM at Coursera.com
 
 CS50’s Web Programming with Python and JavaScript
 
