@@ -1,5 +1,5 @@
 # **Andriy Kovalenko**
-Digital Marketer | DevOps Learner | Python Enthusiast
+Digital Marketer | Python, DataScience, DevOps Newbie
 
 ## Education & Courses 
 
