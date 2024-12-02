@@ -11,11 +11,9 @@ Python for Data Science, AI & Development
 
 DevOps: `Docker` `Kubernetes` `CI/CD`
 
-Programming: `Python` `Go` `Microservices Architecture` `Basic understanding of Bash scripting`
+Programming: `Python` `Go` `Basic understanding of Bash scripting`
 
-Analytics: `Data Analysis and Visualization` `Google Analytics` `Voluum Tracker`
-
-Marketing management: `Google Ads` `Facebook Ads` `Content marketing` 
+Marketing management: `Google Analytics & Ads` `Facebook Ads` `Content marketing` 
 
 ## About me
 Experienced digital marketer with a passion for learning and adapting to new technologies. Currently, expanding my skills in DevOps methodology and Python programming through dedicated courses and self-study.
