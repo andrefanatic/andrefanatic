@@ -26,4 +26,3 @@ Email: **<kovalenko1andrey@gmail.com>**
 
 LinkedIn: **[linkedin.com/in/andrey-kovalenko](https://www.linkedin.com/in/andrey-kovalenko-826b59168/)**
 
-GitHub: **[https://github.com/andrefanatic](https://github.com/andrefanatic)**
