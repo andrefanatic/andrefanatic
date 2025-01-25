@@ -11,7 +11,7 @@ Python for Data Science, AI & Development
 
 DevOps: `Docker` `Kubernetes` `CI/CD`
 
-Programming: `Python` `Go` `Basic understanding of Bash scripting`
+Programming: `Python` `Go` `Basic Bash`
 
 Marketing management: `Google Analytics & Ads` `Facebook Ads` `Content marketing` 
 
@@ -19,8 +19,6 @@ Marketing management: `Google Analytics & Ads` `Facebook Ads` `Content marketing
 Experienced digital marketer with a passion for learning and adapting to new technologies. Currently, expanding my skills in DevOps methodology and Python programming through dedicated courses and self-study.
 
 ---
-
-Email: **<kovalenko1andrey@gmail.com>**
 
 LinkedIn: **[linkedin.com/in/andrey-kovalenko](https://www.linkedin.com/in/andrey-kovalenko-826b59168/)**
 
