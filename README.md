@@ -8,12 +8,9 @@ DevOps & Kubernetes by GlobalLogic
 Python for Data Science, AI & Development
 
 ## Skills
-
-DevOps: `Docker` `Kubernetes` `CI/CD`
-
+Marketing management: `Google Analytics & Ads` `Facebook Ads` `Content Marketing` `Affiliate Marketing`
 Programming: `Python` `Go` `Basic Bash`
-
-Marketing management: `Google Analytics & Ads` `Facebook Ads` `Content marketing` 
+DevOps: `Docker` `Kubernetes` `CI/CD`
 
 ## About me
 Experienced digital marketer with a passion for learning and adapting to new technologies. Currently, expanding my skills in DevOps methodology and Python programming through dedicated courses and self-study.
